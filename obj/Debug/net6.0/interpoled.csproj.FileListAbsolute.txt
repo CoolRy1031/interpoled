@@ -1,0 +1,15 @@
+/Users/thatguy/code/C#/interpoled/bin/Debug/net6.0/interpoled
+/Users/thatguy/code/C#/interpoled/bin/Debug/net6.0/interpoled.deps.json
+/Users/thatguy/code/C#/interpoled/bin/Debug/net6.0/interpoled.runtimeconfig.json
+/Users/thatguy/code/C#/interpoled/bin/Debug/net6.0/interpoled.dll
+/Users/thatguy/code/C#/interpoled/bin/Debug/net6.0/interpoled.pdb
+/Users/thatguy/code/C#/interpoled/obj/Debug/net6.0/interpoled.csproj.AssemblyReference.cache
+/Users/thatguy/code/C#/interpoled/obj/Debug/net6.0/interpoled.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thatguy/code/C#/interpoled/obj/Debug/net6.0/interpoled.AssemblyInfoInputs.cache
+/Users/thatguy/code/C#/interpoled/obj/Debug/net6.0/interpoled.AssemblyInfo.cs
+/Users/thatguy/code/C#/interpoled/obj/Debug/net6.0/interpoled.csproj.CoreCompileInputs.cache
+/Users/thatguy/code/C#/interpoled/obj/Debug/net6.0/interpoled.dll
+/Users/thatguy/code/C#/interpoled/obj/Debug/net6.0/refint/interpoled.dll
+/Users/thatguy/code/C#/interpoled/obj/Debug/net6.0/interpoled.pdb
+/Users/thatguy/code/C#/interpoled/obj/Debug/net6.0/interpoled.genruntimeconfig.cache
+/Users/thatguy/code/C#/interpoled/obj/Debug/net6.0/ref/interpoled.dll
